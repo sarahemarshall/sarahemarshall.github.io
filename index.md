@@ -1,9 +1,7 @@
 ## Welcome to GitHub Pages
 
 [Teaching](pages/teaching.html)
-
-[Teaching](teaching.md)
-[Teaching](docs/teaching.md)
+[Teaching](pages/research.html)
 
 You can use the [editor on GitHub](https://github.com/sarahemarshall/sarahemarshall.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
