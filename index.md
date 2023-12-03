@@ -1,4 +1,4 @@
-Dr Sarah Marshall is a senior lecturer at AUT.
+Dr Sarah Marshall is a senior lecturer at the University of Auckland.
 
 # [Teaching](pages/teaching.html)
 
