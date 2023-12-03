@@ -1,7 +1,9 @@
-Dr Sarah Marshall is a senior lecturer at the University of Auckland.
+# Dr Sarah Marshall
 
-# [Teaching](pages/teaching.html)
+Dr Sarah Marshall is a senior lecturer at the University of Auckland Business School (https://profiles.auckland.ac.nz/sarah-marshall)
 
-# [Research](pages/research.html)
+## [Teaching](pages/teaching.html)
 
-# [Useful Resources](pages/useful_resources.html)
+## [Research](pages/research.html)
+
+## [Useful Resources](pages/useful_resources.html)
